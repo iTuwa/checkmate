@@ -24,8 +24,8 @@ letters = {
     "miss": [
         "I miss you too! You're always on my mind, and I can't wait till we talk or hang out again. 💌",
         "If you ever need someone in your corner... I know a guy.",
-        "Missing you is my heart's way of reminding me how much I love you.",
-        "Every moment without you feels like forever. Can't wait to see you again!"
+        
+        
     ],
     "bored": [
         "Here's a tiny mission: count 5 things you love about yourself. Or... message me 😉",
