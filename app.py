@@ -10,7 +10,7 @@ app.secret_key = 'your_secret_key'
 # --- Users ---
 USERS = {
     "tuwa": "tuwaspec1",
-    "Pullie": "eillup_"
+    "mercy": "primrose"
 }
 
 # --- Letters Dictionary ---
@@ -183,3 +183,4 @@ if __name__ == '__main__':
         print("Created templates directory - please add your template files")
 
     app.run(debug=True)
+
